@@ -1,0 +1,13 @@
+.everything {
+  display: flex;
+  box-shadow: 3px 3px;
+  flex-direction: row;
+}
+
+.border {
+  border: solid black 2px;
+}
+
+.border-title {
+  border: solid lightblue 1px;
+}
